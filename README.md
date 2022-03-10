@@ -1,7 +1,7 @@
 - Hi, I’m @Yerachmiel-Feltzman
-- I’m interested in Data Enginering and Code best practices, as:
-     data modeling, data quality, monitoring, big data processing (stream and batch), data lineage,
-     code desing, data architecture, so on and so for.
+- I’m interested in Data Enginering and clean code best practices, as:
+     data modeling, data quality, monitoring, big data processing (stream and batch), data lineage, data architecture
+     code design, modular code, tdd, so on and so forth.
 - I’m currently learning more on data modeling, data pipeline end-to-end tests and data quality.
 - I am reachable through LinkedIn on linkedin.com/in/yerachmielfeltzman.
 - My favorite quote (from one of my tech leads): `Write your code as if you’re going to delete production`

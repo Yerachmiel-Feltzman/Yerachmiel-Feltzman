@@ -1,6 +1,6 @@
-- Hi, I’m @Yerachmiel-Feltzman
+- Hi, I’m @Yerachmiel-Feltzman 🙂
 - Senior Big Data Engineer
-- I am reachable through LinkedIn on linkedin.com/in/yerachmielfeltzman.
+- I am reachable on [LinkedIn](linkedin.com/in/yerachmielfeltzman).
 - You're welcome to read some of my [latest technical articles](medium.com/@yefeltz). 
 - My favorite quote (from one of my tech leads): `Write your code as if you’re going to delete production`
 <!---
